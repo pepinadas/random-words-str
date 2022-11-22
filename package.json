@@ -1,0 +1,24 @@
+{
+  "name": "random-words-str",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pepinadas/random-words-str.git"
+  },
+  "keywords": [],
+  "author": "Angel Hernandez <mmmunapregunta@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pepinadas/random-words-str/issues"
+  },
+  "homepage": "https://github.com/pepinadas/random-words-str#readme",
+  "bin": {
+    "random-words-str": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
